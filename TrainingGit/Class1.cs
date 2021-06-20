@@ -7,5 +7,10 @@ namespace TrainingGit
 {
     public class Class1
     {
+
+        public string Changes()
+        {
+            return "hi"
+;        }
     }
 }
