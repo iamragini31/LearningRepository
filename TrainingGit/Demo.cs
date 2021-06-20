@@ -7,5 +7,10 @@ namespace TrainingGit
 {
     public class Demo
     {
+        public string news()
+        {
+            return "hello"
+;
+        }
     }
 }
